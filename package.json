@@ -1,0 +1,27 @@
+{
+  "name": "@considonet/stylelint-config-scss",
+  "version": "0.1.0",
+  "description": "Default stylelint ruleset for CSS rule ordering in ConsidoNet projects",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/considonet/stylelint-config-scss.git"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "author": "Paweł Gabryelewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/considonet/stylelint-config-scss/issues"
+  },
+  "homepage": "https://github.com/considonet/stylelint-config-scss#readme",
+  "dependencies": {
+    "stylelint-config-recommended-scss": "^3.3.0",
+    "stylelint-config-standard": "^18.3.0",
+    "stylelint-scss": "^3.9.2"
+  },
+  "peerDependencies": {
+    "stylelint": "^10.1.0"
+  }
+}
