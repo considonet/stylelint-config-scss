@@ -1,7 +1,7 @@
 {
   "name": "@considonet/stylelint-config-scss",
   "version": "0.1.0",
-  "description": "Default stylelint ruleset for CSS rule ordering in ConsidoNet projects",
+  "description": "Default stylelint ruleset for SCSS syntax in ConsidoNet projects",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",

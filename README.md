@@ -1,11 +1,6 @@
 # @considonet/stylelint-config-scss
 
-> Default stylelint ruleset for SCSS syntax in ConsidoNet projects
-
-## What is this?
-
-Default [`stylelint`](https://github.com/stylelint/stylelint) profile to handle SCSS syntax for ConsidoNet projects.
-
+> Default [`stylelint`](https://github.com/stylelint/stylelint) ruleset for SCSS syntax in ConsidoNet projects
 
 ## Installation
 
