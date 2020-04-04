@@ -1,6 +1,6 @@
 {
   "name": "@considonet/stylelint-config-scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default stylelint ruleset for SCSS syntax in ConsidoNet projects",
   "main": "./lib/index.js",
   "repository": {
